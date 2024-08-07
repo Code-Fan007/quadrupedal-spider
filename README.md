@@ -21,3 +21,6 @@ Arduino controlled joint 8-servo 4-legged Walking Robot
 ## finish
 ![alt text](image/finish.jpg)
 ![alt text](image/finish2.jpg)
+
+## Demo video
+https://www.bilibili.com/video/BV1Nu4y1j7aM/?spm_id_from=333.999.0.0&vd_source=f820aa1c372379c60683b0ce117ba037
