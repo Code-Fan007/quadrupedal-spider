@@ -474,7 +474,7 @@ delay(5);
 void neck_home(){
 neck_servo.write(90);
 }
-/**
+/*
  *                    _ooOoo_
  *                   o8888888o
  *                   88" . "88
