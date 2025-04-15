@@ -1,6 +1,6 @@
 # quadrupedal-spider
 Arduino controlled joint 8-servo 4-legged Walking Robot
-对原有的朋友项目的基础上进行改进；添加语音模块、wifi模块，后期换成其他主板提供基础
+在大创项目团队成员协助下完成；为了添加语音模块、wifi模块，后期换成其他主板提供基础
 主要使用arduino和sg90舵机来控制，
 - 开发语言C语言
 - 开发工具arduino IDE，并配置Arduino Nano
